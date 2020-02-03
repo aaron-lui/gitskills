@@ -6,6 +6,8 @@ git clone https://github.com/aaron-lui/gitskills.git
 
 git remote -v
 origin  https://github.com/aaron-lui/gitskills.git (fetch)
+
 origin  https://github.com/aaron-lui/gitskills.git (push)
 
+git push origin master
 
